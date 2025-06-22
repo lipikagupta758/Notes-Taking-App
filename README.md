@@ -48,5 +48,5 @@ This project is a note-taking application developed using Java with Spring MVC f
 - Java
 - Spring MVC
 - Thymeleaf (for server-side HTML rendering)
-- MySQL (or any other relational database)
+- PostgreSQL (or any other relational database)
 - Maven
